@@ -1,1 +1,1 @@
-# MySQL-Installation
+# MySQL
